@@ -1,8 +1,11 @@
 ### Hi there, I'm Leandro! 👋
 
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on KDE Plasma
-- 🤔 Always looking for answers.
+- 🌱 I’m currently learning
+- - Rust
+- - Java
+- - Python
+- - SQL and Data Base
+- 👯 I’m looking to collaborate on open source projects.
 
 <div>
   <a href="https://github.com/leandromqrs"/>
