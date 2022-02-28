@@ -27,12 +27,13 @@
 <a href="https://www.linkedin.com/in/leandromqrs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br/>
 
 <div>
   <a href="https://github.com/leandromqrs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=leandromqrs&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromqrs&theme=react&layout=compact&langs_count=6"/>
 </div>
-<br>
+<br/>
 
 **“It is only proper to realize that language is largely a historical accident.”** ― *John von Neumann, The Computer and the Brain*
