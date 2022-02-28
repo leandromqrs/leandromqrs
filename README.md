@@ -1,7 +1,7 @@
 # Leandro Rodrigues
 
-<h2> Hello, Devs! Welcome to my github profile! ✌ </h2> <img align='right' src="img/coding-typing.gif?raw=true" width="110">
-<p><em>Computer Science at <a href="https://www.ifb.edu.br/">Federal Institute of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Systems Analyst at <a href="https://idvlab.com.br/">IDVLab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hello, Devs! Welcome to my github profile! ✌ </h2> <img align='left' src="img/coding-typing.gif?raw=true" width="120">
+<p><em>- Computer Science at <a href="https://www.ifb.edu.br/">Federal Institute of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>- Systems Analyst at <a href="https://idvlab.com.br/">IDVLab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <br/>
