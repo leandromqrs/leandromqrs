@@ -1,7 +1,7 @@
 <h1 align="center">Leandro Marques Rodrigues </h1>
 
 <!--<h2> Hello, Devs! Welcome to my github profile! ✌ </h2> -->
-<img align='right' src="img/coding-typing.gif?raw=true" width="260em">
+<img align='right' src="img/coding-typing.gif?raw=true" width="265em">
 <p><em>* Computer Science at <a href="https://www.uniceub.br/">Centro de Ensino Unificado de Brasília</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>* Systems Analyst at <a href="https://idvlab.com.br/">IDVLab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
