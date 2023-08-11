@@ -1,6 +1,9 @@
-<h1 align="center">Leandro Marques Rodrigues </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=600&color=3B8EF7&center=true&vCenter=true&width=560&separator=%3C&lines=Hello%2C+welcome+to+my+GitHub+page!%3CMy+name+is+Leandro+Marques+Rodrigues%3CFeel+free+to+take+a+look+;)" alt="Typing SVG" /></a>
+</p>
 
-<!--<h2> Hello, Devs! Welcome to my github profile! ✌ </h2> -->
+<hr>
+
 <img align='right' src="img/coding-typing.gif?raw=true" width="265em">
 <p><em>* Computer Science at <a href="https://www.uniceub.br/">Centro de Ensino Unificado de Brasília</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>* Systems Analyst at <a href="https://idvlab.com.br/">IDVLab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
