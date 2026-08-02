@@ -20,9 +20,9 @@
 
 <img align="right" src="img/coding-typing.gif?raw=true" width="250" alt="Developer coding" />
 
-- 🐧 I build software around **Linux, GNOME, Wayland, and the open desktop**.
-- 🦀 I enjoy creating native applications and system tools with **Rust and GTK**.
-- ✨ I'm helping shape **LuminusOS** and its desktop experience, **Aurora Shell**.
+- 🐧 I build software around Linux, GNOME, Wayland, and the open desktop.
+- 🦀 I enjoy creating native applications and system tools with Rust and GTK.
+- ✨ I'm helping shape LuminusOS and its desktop experience, Aurora Shell.
 - 🎓 Computer Science at [Centro Universitário de Brasília](https://www.uniceub.br/).
 - 🌐 More about my work at [leandromqrs.dev](https://leandromqrs.dev).
 
@@ -72,8 +72,10 @@
 ## GitHub activity
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=leandromqrs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Leandro's GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandromqrs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Leandro's most used languages" />
+  <picture>
+    <img src="./github-metrics.svg" width="100%" alt="Leandro's GitHub metrics" />
+  </picture>
+  <sub>Automatically updated every day with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
 </div>
 
 ## Let's connect
