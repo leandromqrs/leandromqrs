@@ -20,12 +20,31 @@ concurrency:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
     steps:
-      - name: Generate profile metrics
+      - name: Generate public profile metrics
+        if: env.METRICS_TOKEN == ''
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          token: ${{ github.token }}
+          user: leandromqrs
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_display: large
+          config_timezone: America/Sao_Paulo
+          config_twemoji: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Generate complete profile metrics
+        if: env.METRICS_TOKEN != ''
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           user: leandromqrs
           template: classic
           base: header, activity, community, repositories, metadata
